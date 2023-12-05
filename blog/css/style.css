@@ -49,3 +49,21 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
 
+@font-face {
+    src:
+    url("blog/fonts/sans-serif/lato-regular.ttf"), format("TrueType");
+    font-style:normal;
+    font-weight:400 normal;
+    font-family:joseFinSlab;
+
+}
+
+@font-face {
+    src:
+    url("blog/fonts/sans-serif/montserrat-regular.ttf"), format("TrueType");
+    font-style:normal;
+    font-weight:400 normal;
+    font-family:joseFinSlab;
+
+}
+
